@@ -1,1 +1,3 @@
-# bitrise-wall-iOS-opensource
+# Bitrise Wall - iOS
+
+Bitrise iOS client

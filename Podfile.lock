@@ -1,0 +1,20 @@
+PODS:
+  - KeychainSwift (19.0.0)
+  - URLImage (0.9.15)
+
+DEPENDENCIES:
+  - KeychainSwift
+  - URLImage
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+    - URLImage
+
+SPEC CHECKSUMS:
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  URLImage: 1adef9b81f071fc2fc13a1a87ff882c0a694d48b
+
+PODFILE CHECKSUM: eb4eb21fcf94dc70026847305689a808adbe186c
+
+COCOAPODS: 1.9.1
